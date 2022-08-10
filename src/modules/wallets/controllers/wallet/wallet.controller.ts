@@ -15,7 +15,7 @@ import { Wallet } from '../../schemas/wallet.schema';
 import { WalletService } from '../../services/wallet/wallet.service';
 
 @ApiBearerAuth()
-@ApiTags('auth')
+@ApiTags('wallet')
 @Controller('wallet')
 export class WalletController {
   constructor(private service: WalletService) {}
