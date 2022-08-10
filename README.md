@@ -29,8 +29,12 @@
 ## Additional steps
 
 $ Replace path in file .env to 
+```bash
 $ PUBLIC_KEY=/Users/{user}/{path}/zulu-backend/keys/dev-public-key.crt
+```
+```bash
 $ PRIVATE_KEY=/Users/{user}/{path}/zulu-backend/keys/dev-private-key.key
+```
 
 Install MongoDB
 
