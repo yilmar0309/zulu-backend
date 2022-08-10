@@ -28,6 +28,10 @@
 
 ## Additional steps
 
+$ Replace path in file .env to 
+$ PUBLIC_KEY=/Users/{user}/{path}/zulu-backend/keys/dev-public-key.crt
+$ PRIVATE_KEY=/Users/{user}/{path}/zulu-backend/keys/dev-private-key.key
+
 Install MongoDB
 
 [MongoDB](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/) Database
